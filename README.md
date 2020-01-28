@@ -4,7 +4,7 @@ Compiler plugin to import YAML files wih endings .yaml and .yml
 ## Installation
 
 ```
-meteor install qnipp:yaml
+meteor add qnipp:yaml
 ```
 
 ## Usage
