@@ -1,6 +1,12 @@
 # meteor-yaml
 Compiler plugin to import YAML files wih endings .yaml and .yml
 
+## Installation
+
+```
+meteor install qnipp:yaml
+```
+
 ## Usage
 
 ### Import yaml files as JavaScript objects
