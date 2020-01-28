@@ -1,0 +1,10 @@
+number: 3.4
+string: A long string
+stringWithQuotes: "This is also a valid string"
+array:
+- first line
+- second line
+- third line
+object:
+  firstKey: first value
+  secondKey: second value
